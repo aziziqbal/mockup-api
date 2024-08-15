@@ -1,0 +1,341 @@
+{
+  "navigaton": [
+    {
+      "id": 0,
+      "name": "camping",
+      "url": "camping.jpg"
+    },
+    {
+      "id": 1,
+      "name": "beach",
+      "url": "beach.jpg"
+    },
+    {
+      "id": 2,
+      "name": "cabins",
+      "url": "cabins.jpg"
+    },
+    {
+      "id": 3,
+      "name": "campers",
+      "url": "campers.jpg"
+    },
+    {
+      "id": 4,
+      "name": "castles",
+      "url": "castles.jpg"
+    },
+    {
+      "id": 5,
+      "name": "caves",
+      "url": "caves.jpg"
+    },
+    {
+      "id": 6,
+      "name": "country",
+      "url": "country.jpg"
+    },
+    {
+      "id": 7,
+      "name": "design",
+      "url": "design.jpg"
+    },
+    {
+      "id": 8,
+      "name": "farms",
+      "url": "farms.jpg"
+    },
+    {
+      "id": 9,
+      "name": "homes",
+      "url": "homes.jpg"
+    },
+    {
+      "id": 10,
+      "name": "islands",
+      "url": "islands.jpg"
+    },
+    {
+      "id": 11,
+      "name": "lakefront",
+      "url": "lakefront.jpg"
+    },
+    {
+      "id": 12,
+      "name": "omg",
+      "url": "omg.jpg"
+    },
+    {
+      "id": 13,
+      "name": "parks",
+      "url": "parks.jpg"
+    },
+    {
+      "id": 14,
+      "name": "pools",
+      "url": "pools.jpg"
+    },
+    {
+      "id": 15,
+      "name": "surfing",
+      "url": "surfing.jpg"
+    },
+    {
+      "id": 16,
+      "name": "trending",
+      "url": "trending.jpg"
+    },
+    {
+      "id": 17,
+      "name": "world",
+      "url": "world.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": 0,
+      "name": "Nike Air Max 270",
+      "url": "https://picsum.photos/150/150?random=0",
+      "category": "Footwear",
+      "price": "150.00"
+    },
+    {
+      "id": 1,
+      "name": "Apple iPhone 14",
+      "url": "https://picsum.photos/150/150?random=1",
+      "category": "Technology",
+      "price": "999.00"
+    },
+    {
+      "id": 2,
+      "name": "Sony WH-1000XM4",
+      "url": "https://picsum.photos/150/150?random=2",
+      "category": "Electronics",
+      "price": "349.99"
+    },
+    {
+      "id": 3,
+      "name": "Samsung QLED TV",
+      "url": "https://picsum.photos/150/150?random=3",
+      "category": "Home Appliances",
+      "price": "1299.99"
+    },
+    {
+      "id": 4,
+      "name": "Dyson V11 Vacuum",
+      "url": "https://picsum.photos/150/150?random=4",
+      "category": "Home Appliances",
+      "price": "599.99"
+    },
+    {
+      "id": 5,
+      "name": "Levi's 501 Jeans",
+      "url": "https://picsum.photos/150/150?random=5",
+      "category": "Apparel",
+      "price": "89.99"
+    },
+    {
+      "id": 6,
+      "name": "GoPro HERO10",
+      "url": "https://picsum.photos/150/150?random=6",
+      "category": "Technology",
+      "price": "499.99"
+    },
+    {
+      "id": 7,
+      "name": "Canon EOS R5",
+      "url": "https://picsum.photos/150/150?random=7",
+      "category": "Photography",
+      "price": "3899.00"
+    },
+    {
+      "id": 8,
+      "name": "Bose SoundLink Speaker",
+      "url": "https://picsum.photos/150/150?random=8",
+      "category": "Electronics",
+      "price": "199.99"
+    },
+    {
+      "id": 9,
+      "name": "Herman Miller Chair",
+      "url": "https://picsum.photos/150/150?random=9",
+      "category": "Furniture",
+      "price": "1295.00"
+    },
+    {
+      "id": 10,
+      "name": "Ray-Ban Wayfarer Sunglasses",
+      "url": "https://picsum.photos/150/150?random=10",
+      "category": "Accessories",
+      "price": "150.00"
+    },
+    {
+      "id": 11,
+      "name": "Apple MacBook Pro",
+      "url": "https://picsum.photos/150/150?random=11",
+      "category": "Technology",
+      "price": "2399.00"
+    },
+    {
+      "id": 12,
+      "name": "Fitbit Charge 5",
+      "url": "https://picsum.photos/150/150?random=12",
+      "category": "Wearables",
+      "price": "179.95"
+    },
+    {
+      "id": 13,
+      "name": "Samsung Galaxy Watch 4",
+      "url": "https://picsum.photos/150/150?random=13",
+      "category": "Wearables",
+      "price": "299.99"
+    },
+    {
+      "id": 14,
+      "name": "KitchenAid Stand Mixer",
+      "url": "https://picsum.photos/150/150?random=14",
+      "category": "Kitchen Appliances",
+      "price": "499.99"
+    },
+    {
+      "id": 15,
+      "name": "Patagonia Fleece Jacket",
+      "url": "https://picsum.photos/150/150?random=15",
+      "category": "Apparel",
+      "price": "129.00"
+    },
+    {
+      "id": 16,
+      "name": "Microsoft Surface Pro 8",
+      "url": "https://picsum.photos/150/150?random=16",
+      "category": "Technology",
+      "price": "1599.00"
+    },
+    {
+      "id": 17,
+      "name": "Nespresso VertuoPlus",
+      "url": "https://picsum.photos/150/150?random=17",
+      "category": "Kitchen Appliances",
+      "price": "179.99"
+    },
+    {
+      "id": 18,
+      "name": "Adidas Ultraboost Shoes",
+      "url": "https://picsum.photos/150/150?random=18",
+      "category": "Footwear",
+      "price": "180.00"
+    },
+    {
+      "id": 19,
+      "name": "Peloton Bike",
+      "url": "https://picsum.photos/150/150?random=19",
+      "category": "Fitness Equipment",
+      "price": "1895.00"
+    },
+    {
+      "id": 20,
+      "name": "Sony PlayStation 5",
+      "url": "https://picsum.photos/150/150?random=20",
+      "category": "Gaming",
+      "price": "499.99"
+    },
+    {
+      "id": 21,
+      "name": "Nintendo Switch",
+      "url": "https://picsum.photos/150/150?random=21",
+      "category": "Gaming",
+      "price": "299.99"
+    },
+    {
+      "id": 22,
+      "name": "Apple AirPods Pro",
+      "url": "https://picsum.photos/150/150?random=22",
+      "category": "Electronics",
+      "price": "249.00"
+    },
+    {
+      "id": 23,
+      "name": "Nest Learning Thermostat",
+      "url": "https://picsum.photos/150/150?random=23",
+      "category": "Home Automation",
+      "price": "249.00"
+    },
+    {
+      "id": 24,
+      "name": "The North Face Backpack",
+      "url": "https://picsum.photos/150/150?random=24",
+      "category": "Accessories",
+      "price": "99.00"
+    },
+    {
+      "id": 25,
+      "name": "Sonos One Speaker",
+      "url": "https://picsum.photos/150/150?random=25",
+      "category": "Electronics",
+      "price": "219.00"
+    },
+    {
+      "id": 26,
+      "name": "Oculus Quest 2",
+      "url": "https://picsum.photos/150/150?random=26",
+      "category": "Technology",
+      "price": "399.00"
+    },
+    {
+      "id": 27,
+      "name": "Yeti Rambler Tumbler",
+      "url": "https://picsum.photos/150/150?random=27",
+      "category": "Accessories",
+      "price": "39.99"
+    },
+    {
+      "id": 28,
+      "name": "Lululemon Yoga Mat",
+      "url": "https://picsum.photos/150/150?random=28",
+      "category": "Fitness Equipment",
+      "price": "98.00"
+    },
+    {
+      "id": 29,
+      "name": "Anker PowerCore 10000",
+      "url": "https://picsum.photos/150/150?random=29",
+      "category": "Electronics",
+      "price": "49.99"
+    },
+    {
+      "id": 30,
+      "name": "Instant Pot Duo",
+      "url": "https://picsum.photos/150/150?random=30",
+      "category": "Kitchen Appliances",
+      "price": "89.99"
+    },
+    {
+      "id": 31,
+      "name": "Dyson Supersonic Hair Dryer",
+      "url": "https://picsum.photos/150/150?random=31",
+      "category": "Beauty",
+      "price": "399.99"
+    },
+    {
+      "id": 32,
+      "name": "Roku Streaming Stick+",
+      "url": "https://picsum.photos/150/150?random=32",
+      "category": "Technology",
+      "price": "49.99"
+    },
+    {
+      "id": 33,
+      "name": "Samsung Galaxy Buds Pro",
+      "url": "https://picsum.photos/150/150?random=33",
+      "category": "Electronics",
+      "price": "199.99"
+    },
+    {
+      "id": 34,
+      "name": "Logitech MX Master 3",
+      "url": "https://picsum.photos/150/150?random=34",
+      "category": "Technology",
+      "price": "99.99"
+    }
+  ]
+}
